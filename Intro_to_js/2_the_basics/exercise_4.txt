@@ -1,0 +1,4 @@
+console.log('5' + 10);
+
+The code logs '510' because of Javascript implicit coercion: When using '+', if either operand is a string and the other is not, 
+JavaScript coerces the non-string operand to a string. The result is always another string.

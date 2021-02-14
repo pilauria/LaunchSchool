@@ -1,0 +1,3 @@
+function isNorANumber() {
+  value === NaN;
+}
